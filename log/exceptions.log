@@ -1,0 +1,375 @@
+2024-02-26T04:46:21.562Z  error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:49:4)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:46:33.726Z  error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:49:4)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:47:02.315Z  error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:49:4)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:49:41.203Z  error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:49:4)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:49:55.695Z  error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:49:4)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:51:32.853Z  error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:49:4)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:52:01.715Z  error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:49:4)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:54:09.297Z  error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:49:4)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:54:50.237Z  error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:48:3)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:55:04.944Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:55:18.757Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:55:32.042Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:55:45.825Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:56:25.596Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:56:52.000Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T04:58:41.467Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:06:07.369Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:08:27.529Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:12:04.479Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:12:28.689Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:13:18.612Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:14:18.817Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:14:31.946Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:14:36.301Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:14:41.440Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:14:45.516Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:14:54.415Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:14:57.960Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:40:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:15:11.974Z  error: uncaughtException: clg is not defined
+ReferenceError: clg is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:15:1)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:15:16.826Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:15:25.726Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:15:29.267Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:15:34.418Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:15:39.100Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:15:46.269Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:15:51.962Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:15:57.161Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:16:04.261Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:16:11.698Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:16:20.820Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:41:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:16:26.385Z  error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (D:\Bootcamp_Full-Stack\NoSQL\info\app.js:40:9)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49
+2024-02-26T05:18:50.891Z  error: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at D:\Bootcamp_Full-Stack\NoSQL\info\controllers\auth.controller.js:185:39
+    at new Promise (<anonymous>)
+    at loginAuthor (D:\Bootcamp_Full-Stack\NoSQL\info\controllers\auth.controller.js:185:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

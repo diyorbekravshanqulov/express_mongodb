@@ -1,0 +1,25 @@
+{
+  "level": "\u001b[32minfo\u001b[39m",
+  "message": "GET /api/auth/ 200 42ms",
+  "meta": {
+    "req": {
+      "headers": {
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br",
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZGMxZWZmZTAwYzA1NWM3OTg3NmI2ZiIsImlzX2V4cGVydCI6dHJ1ZSwiYXV0aG9yUm9sZXMiOlsiUkVBRCIsIldSSVRFIl0sImlhdCI6MTcwODkyNDczMCwiZXhwIjoxNzA4OTI4MzMwfQ.SmLEa0q83SGKUCie2ODBWbZY-XOxuLUH0NznYsGacHI",
+        "connection": "keep-alive",
+        "cookie": "refreshToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZGMxZWZmZTAwYzA1NWM3OTg3NmI2ZiIsImlzX2V4cGVydCI6dHJ1ZSwiYXV0aG9yUm9sZXMiOlsiUkVBRCIsIldSSVRFIl0sImlhdCI6MTcwODkyNDczMCwiZXhwIjoxNzEwMjIwNzMwfQ.j-u7wzeLL62vDaeKO6x9mBLypxHVP9JqL5WhaA-ZmMA",
+        "host": "localhost:3000",
+        "postman-token": "e4870b27-8313-45f8-a821-964ae973dc21",
+        "user-agent": "PostmanRuntime/7.36.3"
+      },
+      "httpVersion": "1.1",
+      "method": "GET",
+      "originalUrl": "/api/auth/",
+      "query": {},
+      "url": "/api/auth/"
+    },
+    "res": { "statusCode": 200 },
+    "responseTime": 42
+  }
+}

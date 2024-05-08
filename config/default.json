@@ -1,0 +1,16 @@
+{
+  "port": 3000,
+  "dataUri": "mongodb://127.0.0.1:27017/itinfo",
+  "tokenKey": "WhatIWanted$Key7",
+  "tokenTime": 86400000,
+  "accessKey": "ThisMine$AccessKey7",
+  "refreshKey": "ThisMine$RefreshKey7",
+  "accessTime": "60m",
+  "refreshTime": "15d",
+  "refreshms": 186400000,
+  "smtpPassword": "eapykornqzhbrqxe",
+  "smtpHost": "smtp.gmail.com",
+  "smtpPort": 587,
+  "smtpUser": "diyorbekravshanqulov17@gmail.com",
+  "apiUrl": "http://localhost"
+}
